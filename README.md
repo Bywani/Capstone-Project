@@ -1,3 +1,5 @@
+![pexels-pixabay-38537](https://user-images.githubusercontent.com/85582924/202362268-cbc01875-aa6f-4536-ad35-bb3a886492e7.jpg)
+
 # Weather Classification & Prediction
 
 Weather classification and prediction affects many aspects of our daily lives, for example, weather forecast, road condition monitoring, transportation, agriculture, forestry management, and the detection of the natural environment. In contrast, few studies aim to classify actual weather phenomenon images, usually relying on visual observations from humans.
